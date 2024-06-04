@@ -3,8 +3,6 @@
 <h5 align="center">Working on, honing and developing new skills on at a time. My interests are programming, developing, and playing games. No, not on the phone/PC. Outdoor. Java and JavaScript are my helping hands. Why? Because I learned them first. No specific reason. Getting better every 5th day. Aim is to get better everyday. Certainly not a work of art but surely a work in progress</h5>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [An Ecommerce app](https://github.com/vishalsingh384/E-Commerce)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
