@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working on [An Ecommerce app](https://github.com/vishalsingh384/E-Commerce)
 
-- 🌱 I’m currently learning **React, DSA and Backend**
-
-- 📫 How to reach me **vishalsing384@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
