@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">MERN</h3>
+<h3 align="center">Software Developer</h3>
 <h5 align="center">Working on, honing and developing new skills on at a time. My interests are programming, developing, and playing games. No, not on the phone/PC. Outdoor. Java and JavaScript are my helping hands. Why? Because I learned them first. No specific reason. Getting better every 5th day. Aim is to get better everyday. Certainly not a work of art but surely a work in progress</h5>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishal-singh-b6a257231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-singh-b6a257231" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishalsing384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-singh-b6a257231" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lahsiv_edoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lahsiv_edoc" height="30" width="40" /></a>
 </p>
 
